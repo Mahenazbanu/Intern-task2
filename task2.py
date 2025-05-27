@@ -1,7 +1,8 @@
 """
-Phishing Email Analyzer - Fully Enhanced & Production-Ready
+Phishing Email Analyzer v2 - Fully Enhanced & Production-Ready
 Author: AI Assistant
 Date: 2024-06-15
+Version: 2.0
 License: MIT
 """
 
